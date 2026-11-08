@@ -1,0 +1,4 @@
+attack_name,intended_class,predicted_class,spam_probability,text
+Disguised promotional message,spam,legitimate,0.001,"Hello Jordan, I thought you might find this update useful. Your account has a new member benefit available to review at https://member-update.example. Please take a look when convenient."
+Low-pressure reward message,spam,legitimate,0.001,A note about your recent participation: a reward is ready in your online profile. Sign in through the usual account page to see the details. This message is for your records.
+Legitimate urgent meeting notice,legitimate,spam,0.874,URGENT: Today's project meeting has moved to 2 PM. Please review the agenda now and reply ASAP if you cannot attend!!!

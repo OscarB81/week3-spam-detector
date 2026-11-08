@@ -1,0 +1,65 @@
+original_id,text,label,word_count,exclamations,money_words,all_caps,link_count,urgency_words
+S01,CONGRATULATIONS! You have won a $500 gift card. Claim your prize NOW at https://rewards.example/claim.,1,17,1,2,2,1,1
+S01,"Hello, CONGRATULATIONS! You have won a $500 gift card. Claim your prize NOW at https://rewards.example/claim.",1,18,1,2,2,1,1
+S01,CONGRATULATIONS! You have won a $500 gift card. Claim your prize NOW at https://rewards.example/claim. Thank you.,1,19,1,2,2,1,1
+S01,CONGRATULATIONS! You have won a $500 gift card. Claim your prize NOW at https://rewards.example/claim!,1,17,2,2,2,1,1
+S02,URGENT: Your account payment is overdue. Pay immediately to avoid suspension. Visit https://billing.example/pay today.,1,17,0,1,1,1,3
+S02,"Hello, URGENT: Your account payment is overdue. Pay immediately to avoid suspension. Visit https://billing.example/pay today.",1,18,0,1,1,1,3
+S02,URGENT: Your account payment is overdue. Pay immediately to avoid suspension. Visit https://billing.example/pay today. Thank you.,1,19,0,1,1,1,3
+S02,URGENT: Your account payment is overdue. Pay immediately to avoid suspension. Visit https://billing.example/pay today!,1,17,1,1,1,1,3
+S03,FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize.,1,19,1,4,2,1,3
+S03,"Hello, FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize.",1,20,1,4,2,1,3
+S03,FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize. Thank you.,1,21,1,4,2,1,3
+S03,FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize!,1,19,2,4,2,1,3
+S04,Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details.,1,18,0,2,0,0,1
+S04,"Hello, Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details.",1,19,0,2,0,0,1
+S04,Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details. Thank you.,1,20,0,2,0,0,1
+S04,Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details!,1,18,1,2,0,0,1
+S05,Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment.,1,17,0,3,0,1,1
+S05,"Hello, Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment.",1,18,0,3,0,1,1
+S05,Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment. Thank you.,1,19,0,3,0,1,1
+S05,Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment!,1,17,1,3,0,1,1
+S06,EXCLUSIVE OFFER: You were selected for a FREE vacation. Redeem your reward today before this deal expires!,1,17,1,1,3,0,2
+S06,"Hello, EXCLUSIVE OFFER: You were selected for a FREE vacation. Redeem your reward today before this deal expires!",1,18,1,1,3,0,2
+S06,EXCLUSIVE OFFER: You were selected for a FREE vacation. Redeem your reward today before this deal expires! Thank you.,1,19,1,1,3,0,2
+S06,EXCLUSIVE OFFER: You were selected for a FREE vacation. Redeem your reward today before this deal expires!!,1,17,2,1,3,0,2
+S07,"Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately.",1,17,1,3,0,1,5
+S07,"Hello, Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately.",1,18,1,3,0,1,5
+S07,"Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately. Thank you.",1,19,1,3,0,1,5
+S07,"Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately!",1,17,2,3,0,1,5
+S08,WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash.,1,17,1,3,2,0,1
+S08,"Hello, WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash.",1,18,1,3,2,0,1
+S08,WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash. Thank you.,1,19,1,3,2,0,1
+S08,WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash!,1,17,2,3,2,0,1
+L01,"Hi team, our weekly project meeting is scheduled for Tuesday at 10 AM in conference room two. Please bring your updates.",0,21,0,0,1,0,0
+L01,"Hello, Hi team, our weekly project meeting is scheduled for Tuesday at 10 AM in conference room two. Please bring your updates.",0,22,0,0,1,0,0
+L01,"Hi team, our weekly project meeting is scheduled for Tuesday at 10 AM in conference room two. Please bring your updates. Thank you.",0,23,0,0,1,0,0
+L01,"Hi team, our weekly project meeting is scheduled for Tuesday at 10 AM in conference room two. Please bring your updates!",0,21,1,0,1,0,0
+L02,"Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday.",0,18,0,0,0,0,0
+L02,"Hello, Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday.",0,19,0,0,0,0,0
+L02,"Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday. Thank you.",0,20,0,0,0,0,0
+L02,"Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday!",0,18,1,0,0,0,0
+L03,This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account.,0,22,0,0,0,0,0
+L03,"Hello, This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account.",0,23,0,0,0,0,0
+L03,This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account. Thank you.,0,24,0,0,0,0,0
+L03,This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account!,0,22,1,0,0,0,0
+L04,"Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule.",0,23,0,0,1,0,0
+L04,"Hello, Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule.",0,24,0,0,1,0,0
+L04,"Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule. Thank you.",0,25,0,0,1,0,0
+L04,"Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule!",0,23,1,0,1,0,0
+L05,The project report looks good. I added two comments to the shared document for you to review when you have time.,0,21,0,0,0,0,0
+L05,"Hello, The project report looks good. I added two comments to the shared document for you to review when you have time.",0,22,0,0,0,0,0
+L05,The project report looks good. I added two comments to the shared document for you to review when you have time. Thank you.,0,23,0,0,0,0,0
+L05,The project report looks good. I added two comments to the shared document for you to review when you have time!,0,21,1,0,0,0,0
+L06,Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day.,0,21,0,0,0,0,0
+L06,"Hello, Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day.",0,22,0,0,0,0,0
+L06,Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day. Thank you.,0,23,0,0,0,0,0
+L06,Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day!,0,21,1,0,0,0,0
+L07,Your package has shipped. You can view the delivery progress at https://carrier.example/track using your tracking number.,0,19,0,0,0,1,0
+L07,"Hello, Your package has shipped. You can view the delivery progress at https://carrier.example/track using your tracking number.",0,20,0,0,0,1,0
+L07,Your package has shipped. You can view the delivery progress at https://carrier.example/track using your tracking number. Thank you.,0,21,0,0,0,1,0
+L07,Your package has shipped. You can view the delivery progress at https://carrier.example/track using your tracking number!,0,19,1,0,0,1,0
+L08,Course registration is confirmed for the spring term. Your class schedule is available in the student portal.,0,17,0,0,0,0,0
+L08,"Hello, Course registration is confirmed for the spring term. Your class schedule is available in the student portal.",0,18,0,0,0,0,0
+L08,Course registration is confirmed for the spring term. Your class schedule is available in the student portal. Thank you.,0,19,0,0,0,0,0
+L08,Course registration is confirmed for the spring term. Your class schedule is available in the student portal!,0,17,1,0,0,0,0

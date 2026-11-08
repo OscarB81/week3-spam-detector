@@ -1,0 +1,65 @@
+original_id,variation,label,text
+S01,0,spam,CONGRATULATIONS! You have won a $500 gift card. Claim your prize NOW at https://rewards.example/claim.
+S01,1,spam,"Hello, CONGRATULATIONS! You have won a $500 gift card. Claim your prize NOW at https://rewards.example/claim."
+S01,2,spam,CONGRATULATIONS! You have won a $500 gift card. Claim your prize NOW at https://rewards.example/claim. Thank you.
+S01,3,spam,CONGRATULATIONS! You have won a $500 gift card. Claim your prize NOW at https://rewards.example/claim!
+S02,0,spam,URGENT: Your account payment is overdue. Pay immediately to avoid suspension. Visit https://billing.example/pay today.
+S02,1,spam,"Hello, URGENT: Your account payment is overdue. Pay immediately to avoid suspension. Visit https://billing.example/pay today."
+S02,2,spam,URGENT: Your account payment is overdue. Pay immediately to avoid suspension. Visit https://billing.example/pay today. Thank you.
+S02,3,spam,URGENT: Your account payment is overdue. Pay immediately to avoid suspension. Visit https://billing.example/pay today!
+S03,0,spam,FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize.
+S03,1,spam,"Hello, FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize."
+S03,2,spam,FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize. Thank you.
+S03,3,spam,FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize!
+S04,0,spam,Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details.
+S04,1,spam,"Hello, Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details."
+S04,2,spam,Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details. Thank you.
+S04,3,spam,Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details!
+S05,0,spam,Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment.
+S05,1,spam,"Hello, Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment."
+S05,2,spam,Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment. Thank you.
+S05,3,spam,Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment!
+S06,0,spam,EXCLUSIVE OFFER: You were selected for a FREE vacation. Redeem your reward today before this deal expires!
+S06,1,spam,"Hello, EXCLUSIVE OFFER: You were selected for a FREE vacation. Redeem your reward today before this deal expires!"
+S06,2,spam,EXCLUSIVE OFFER: You were selected for a FREE vacation. Redeem your reward today before this deal expires! Thank you.
+S06,3,spam,EXCLUSIVE OFFER: You were selected for a FREE vacation. Redeem your reward today before this deal expires!!
+S07,0,spam,"Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately."
+S07,1,spam,"Hello, Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately."
+S07,2,spam,"Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately. Thank you."
+S07,3,spam,"Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately!"
+S08,0,spam,WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash.
+S08,1,spam,"Hello, WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash."
+S08,2,spam,WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash. Thank you.
+S08,3,spam,WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash!
+L01,0,legitimate,"Hi team, our weekly project meeting is scheduled for Tuesday at 10 AM in conference room two. Please bring your updates."
+L01,1,legitimate,"Hello, Hi team, our weekly project meeting is scheduled for Tuesday at 10 AM in conference room two. Please bring your updates."
+L01,2,legitimate,"Hi team, our weekly project meeting is scheduled for Tuesday at 10 AM in conference room two. Please bring your updates. Thank you."
+L01,3,legitimate,"Hi team, our weekly project meeting is scheduled for Tuesday at 10 AM in conference room two. Please bring your updates!"
+L02,0,legitimate,"Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday."
+L02,1,legitimate,"Hello, Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday."
+L02,2,legitimate,"Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday. Thank you."
+L02,3,legitimate,"Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday!"
+L03,0,legitimate,This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account.
+L03,1,legitimate,"Hello, This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account."
+L03,2,legitimate,This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account. Thank you.
+L03,3,legitimate,This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account!
+L04,0,legitimate,"Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule."
+L04,1,legitimate,"Hello, Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule."
+L04,2,legitimate,"Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule. Thank you."
+L04,3,legitimate,"Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule!"
+L05,0,legitimate,The project report looks good. I added two comments to the shared document for you to review when you have time.
+L05,1,legitimate,"Hello, The project report looks good. I added two comments to the shared document for you to review when you have time."
+L05,2,legitimate,The project report looks good. I added two comments to the shared document for you to review when you have time. Thank you.
+L05,3,legitimate,The project report looks good. I added two comments to the shared document for you to review when you have time!
+L06,0,legitimate,Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day.
+L06,1,legitimate,"Hello, Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day."
+L06,2,legitimate,Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day. Thank you.
+L06,3,legitimate,Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day!
+L07,0,legitimate,Your package has shipped. You can view the delivery progress at https://carrier.example/track using your tracking number.
+L07,1,legitimate,"Hello, Your package has shipped. You can view the delivery progress at https://carrier.example/track using your tracking number."
+L07,2,legitimate,Your package has shipped. You can view the delivery progress at https://carrier.example/track using your tracking number. Thank you.
+L07,3,legitimate,Your package has shipped. You can view the delivery progress at https://carrier.example/track using your tracking number!
+L08,0,legitimate,Course registration is confirmed for the spring term. Your class schedule is available in the student portal.
+L08,1,legitimate,"Hello, Course registration is confirmed for the spring term. Your class schedule is available in the student portal."
+L08,2,legitimate,Course registration is confirmed for the spring term. Your class schedule is available in the student portal. Thank you.
+L08,3,legitimate,Course registration is confirmed for the spring term. Your class schedule is available in the student portal!

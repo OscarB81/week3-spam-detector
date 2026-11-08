@@ -1,0 +1,17 @@
+original_id,text,label,predicted_label
+L08,Course registration is confirmed for the spring term. Your class schedule is available in the student portal.,0,0
+S08,WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash. Thank you.,1,1
+L02,"Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday!",0,0
+S07,"Act now! Your $1,000 payout expires soon. Visit https://payout.example and claim your winnings immediately!",1,1
+L02,"Thank you for your purchase. Your order receipt is attached, and your package is expected to arrive Friday. Thank you.",0,0
+L06,Your regular payroll deposit has been processed and should appear in your bank account by the end of the business day.,0,0
+L03,This is a reminder that the library book you borrowed is due next Monday. You can renew it through your library account. Thank you.,0,0
+S03,"Hello, FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize.",1,1
+S04,Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details. Thank you.,1,1
+S03,FINAL NOTICE! A limited-time bonus reward is waiting. Click https://bonus.example now to collect your $100 prize!,1,1
+S04,Earn extra cash from home with this easy offer. Guaranteed money and flexible hours. Reply today for details!,1,1
+L05,The project report looks good. I added two comments to the shared document for you to review when you have time!,0,0
+S05,Your $250 refund is ready. Confirm your information immediately at https://refund.example/verify to receive payment. Thank you.,1,1
+L04,"Hello, this is a reminder of your dental appointment on Thursday at 3 PM. Please call the office if you need to reschedule. Thank you.",0,0
+S08,"Hello, WINNER ALERT! Your lottery prize is available. Send a small processing payment today to release your cash.",1,1
+L08,Course registration is confirmed for the spring term. Your class schedule is available in the student portal!,0,0
